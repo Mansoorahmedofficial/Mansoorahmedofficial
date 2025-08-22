@@ -1,6 +1,6 @@
 # 👋 Hi there, welcome to my GitHub!
 
-I'm **[Your Name]**, a passionate developer who loves exploring technology and building cool stuff 🚀.  
+I'm **Mansoor Ahmed**, a passionate developer who loves exploring technology and building cool stuff 🚀.  
 Here you'll find projects ranging from backend systems to mobile apps and experiments with different programming languages.  
 
 ---
@@ -24,10 +24,12 @@ Here are some of the languages I work with:
 </p>
 
 ---
-
+## 🔥 GitHub Streaks
+![GitHub Streak](https://streak-stats.demolab.com?user=Mansoorahmedofficial&theme=radical&hide_border=true)
+---
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mansoorahmedofficial&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansoorahmedofficial&layout=compact&theme=radical)  
 
 ---
 
