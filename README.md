@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there, welcome to my GitHub!
 
-<!--
-**Mansoorahmedofficial/Mansoorahmedofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[Your Name]**, a passionate developer who loves exploring technology and building cool stuff 🚀.  
+Here you'll find projects ranging from backend systems to mobile apps and experiments with different programming languages.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🔭 I’m currently learning & building full-stack applications.  
+- 🌱 Exploring Android development & advanced backend systems.  
+- ⚡ Fun fact: I enjoy mixing software development with electronics & security concepts.  
+
+---
+
+## 💻 Languages & Tools
+Here are some of the languages I work with:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
+
+---
+
+⭐️ *Feel free to explore my repositories and drop a star if you like my work!*  
